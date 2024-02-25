@@ -1,6 +1,8 @@
 <section align="center">
-  <h1>NezukoCS — A lightweight Garbage Collector for C</h1>
-  <img src="https://i.ibb.co/G7vZqLy/nezuko-cleaning-services-banner.jpg" alt="NezukoCS Banner" style="max-width: 75%;">
+  # NezukoCS — A lightweight Garbage Collector for C
+
+  ![Nezuko's Cleaning Services Banner](https://github.com/alex17ryan/NezukoCS/blob/main/nezuko-cleaning-services-banner)
+
 </section>
 
 <br>
@@ -139,17 +141,30 @@ NezukoCS provides three main functions for memory management:
 
 ## _Installation_
 
-1. **Download the one file of code from the github repo:**
+1. **Download the raw file of the code from the github repo:**
 
-   Link:
+   Link: [Download NezukoCS from here](https://fastupload.io/FFxuZehx8oJZyGj/file)
 
-2. **Paste the downloaded file in the compiler's _lib_ directory:**
+   <br>
 
-   LLVM Clang Compiler:
+2. **Paste the downloaded file in the compiler's _include_ directory:**
 
-   GNU GCC Compiler:
+   LLVM Clang Compiler: `C:\LLVM\lib\clang\17\include\`
+
+   GNU GCC Compiler: `C:\MinGW\include\`
+
+   **_Note:_** The paths may slightly differ so try to look up your own.
+
+   <br>
 
 3. **Include "nezukoCS.h" in your project:**
+
    ```c
    #include <nezukoCS.h>
    ```
+
+   <br>
+   <br>
+   <br>
+---
+***Shout out to [Ayres](https://github.com/Ayres-Adel) for all his inspiration, love, and support. 🤍***
