@@ -30,7 +30,7 @@ NezukoCS provides three main functions for memory management:
 - ### Allocate memory
 
   To allocate memory, use the **_allocate_** function.\
-   It takes an _integer_ size of the memory to allocate and returns a _pointer_ to the allocated memory.
+   It takes an _integer_ as a size for the memory to allocate and returns a _pointer_ to the allocated memory.
 
   ```c
     int* ptr = allocate(sizeof(int));
@@ -142,7 +142,7 @@ NezukoCS provides three main functions for memory management:
 
 ## _Installation_
 
-1. **Download the raw file of the code from the github repo:**
+1. **Download the package file:**
 
    Download the raw code file from [Github](https://github.com/alex17ryan/NezukoCS/blob/main/nezukoCS.h) or from the link below:
 
@@ -160,7 +160,7 @@ NezukoCS provides three main functions for memory management:
 
    <br>
 
-3. **Include "nezukoCS.h" in your project:**
+3. **Include NezukoCS in your project:**
 
    ```c
    #include <nezukoCS.h>
