@@ -61,7 +61,7 @@ NezukoCS provides three main functions for memory management:
 - ### Example 1
 
   ```c
-  #include <nezukocs.h>
+  #include <nezukoCS.h>
 
   int main() {
       // Allocate memory
@@ -89,7 +89,7 @@ NezukoCS provides three main functions for memory management:
 - ### Example 2
 
   ```c
-  #include <nezukocs.h>
+  #include <nezukoCS.h>
 
   int main() {
       // Allocate memory
@@ -118,7 +118,7 @@ NezukoCS provides three main functions for memory management:
 - ### Example 3
 
   ```c
-  #include <nezukocs.h>
+  #include <nezukoCS.h>
 
   int main() {
       // Allocate memory
