@@ -2,7 +2,7 @@
 
 # NezukoCS — A lightweight Garbage Collector for C
 
-![Nezuko's Cleaning Services Banner](https://raw.githubusercontent.com/alex17ryan/NezukoCS/main/nezuko-cleaning-services-banner.png?token=GHSAT0AAAAAACOWNPK5PXGMLZFKKWUHWLRAZO3LVVQ)
+![Nezuko's Cleaning Services Banner](nezuko-cleaning-services-banner.png)
 
 </section>
 
