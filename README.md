@@ -144,6 +144,8 @@ NezukoCS provides three main functions for memory management:
 
 1. **Download the raw file of the code from the github repo:**
 
+   Download the raw code file from [Github](https://github.com/alex17ryan/NezukoCS/blob/main/nezukoCS.h) or from the link below:
+
    Link: [Download NezukoCS from here](https://fastupload.io/FFxuZehx8oJZyGj/file)
 
    <br>
