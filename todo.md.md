@@ -1,0 +1,3 @@
+- Add reallocation functionality.
+- Add matrix allocation functionality.
+- Add matrix deallocation functionality.

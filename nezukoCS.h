@@ -1,3 +1,6 @@
+#ifndef NEZUKOCS_H
+#define NEZUKOCS_H
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -186,3 +189,5 @@ int nezuko() {
     __empty_nzk_t_s();
     return 0;
 }
+
+#endif
